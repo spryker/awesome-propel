@@ -16,7 +16,7 @@ Additional lists you might find useful:
 
 
 # Contributing
-Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
+Please see [contributing](contributing.md) for details.
 
 ## Credits
 awesome-cakephp has been created by [dereuromark](https://github.com/dereuromark) and is currently maintained by him and the Spryker Systems GmbH. Thank you to all contributors, too.
