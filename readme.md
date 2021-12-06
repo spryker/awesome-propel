@@ -8,11 +8,13 @@ Additional lists you might find useful:
 ## Table of Contents
 
 - [Behaviors](#behaviors)
-	- [...](#...)
+	- [Security](#security)
 	
 # Behaviors
 
-## ...
+## Security
+
+- [spryker/propel-encryption-behavior](https://github.com/spryker/propel-encryption-behavior/) - Seamlessly encrypt/decrypt Propel2 data fields.
 
 
 # Contributing
